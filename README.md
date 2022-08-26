@@ -1,5 +1,4 @@
 ### Olá, eu sou Camilo Augusto Carvalho ✌🏼
-### trabalhando no perfil...
 
 - 👨🏼‍🔧 Atualmente trabalho na empresa de manutenção industrial Hydrauthor
 - 🤓 Estudando linguagem de programção Java

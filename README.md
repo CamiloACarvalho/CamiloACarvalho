@@ -1,5 +1,6 @@
 ### Olá, eu sou Camilo Augusto Carvalho ✌🏼
 
+
 - 👨🏼‍🔧 Atualmente trabalho na empresa de manutenção industrial Hydrauthor
 - 🤓 Estudando linguagem de programção Java
 - 👨🏼‍🎓 Graduado em Engenharia Mecânica pela UFJF

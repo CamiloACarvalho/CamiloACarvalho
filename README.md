@@ -1,3 +1,10 @@
+<!-- SECTION 01: BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Camilo%20Carvalho&fontSize=70&fontAlignY=35&desc=%20Software%20Developer/Engineer&descAlignY=50" />
+     
+
+<!-- ![Banner](https://github.com/CamiloACarvalho/CamiloACarvalho/blob/master/src/assets/header.png) -->
+
+
 ### Olá, eu sou Camilo Augusto Carvalho ✌🏼
 
 

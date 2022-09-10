@@ -15,7 +15,7 @@
   ##
   
   <!-- GitHub stats -->
-<b>⚡ Minhas estatíscas no GitHub </b>
+<b>⚡ Minhas estatísticas no GitHub </b>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CamiloACarvalho&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 

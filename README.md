@@ -1,15 +1,23 @@
+
+<div align="center">
+
 <!-- SECTION 01: BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Camilo%20Carvalho&animation=scaleIn&fontSize=70&fontAlignY=35&desc=%20Software%20Developer/Engineer&descAlignY=50" />     
 
 <!-- ![Banner](https://github.com/CamiloACarvalho/CamiloACarvalho/blob/master/src/assets/header.png) -->
 
-- 👨🏼‍🔧 Atualmente trabalho na empresa de manutenção industrial Hydrauthor
-- 🤓 Estudando linguagem de programção Java
-- 👨🏼‍🎓 Graduado em Engenharia Mecânica pela UFJF
-- 📚 Cursando pós-graduação em Engenharia de Softwares pela Ampli
-- 😊 Pronome: Ele/dele
+ -> 👨🏼‍🔧 Atualmente trabalho na empresa de manutenção industrial Hydrauthor
+  
+ -> 👨🏼‍🎓 Graduado em Engenharia Mecânica pela UFJF
+  
+ -> 📚 Cursando pós-graduação em Engenharia de Softwares pela Ampli
 
   ##
+  
+  <!-- GitHub stats -->
+<b>⚡ MMinhas estatíscas no GitHub </b>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CamiloACarvalho&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
   <a href="https://github.com/CamiloACarvalho">
@@ -35,9 +43,5 @@
   ![Snake animation](https://github.com/CamiloACarvalho/CamiloACarvalho/blob/output/github-contribution-grid-snake.svg)
     
 </div>
-
-
- 
-    
     
     

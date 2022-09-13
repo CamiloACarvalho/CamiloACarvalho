@@ -7,9 +7,13 @@
 <!-- ![Banner](https://github.com/CamiloACarvalho/CamiloACarvalho/blob/master/src/assets/header.png) -->
 
  -> 👨🏼‍🔧 Atualmente trabalho na empresa de manutenção industrial Hydrauthor
+ 
  -> 👨🏼‍🎓 Graduado em Engenharia Mecânica pela UFJF
- -> 📚 Cursando pós-graduação em Engenharia de Softwares pela Ampli
+ 
+ -> 📚 Cursando pós-graduação em Engenharia de Softwares pela AMPLI
+ 
  -> 💻 Busco minha primeira oportunidade como desenvolvedor júnior
+ 
  -> 🏍️ Apaixonado por motocicleta
 
   ##

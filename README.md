@@ -8,13 +8,13 @@
 
 </div>
 
- * 📚 Cursando pós-graduação em Engenharia de Softwares pela AMPLI; 
- * 👨🏼‍🎓 Graduado em Engenharia Mecânica pela UFJF; 
- * 💻 Busco minha primeira oportunidade como desenvolvedor júnior;
- * 🤓 Um pouco da minha história com programação; durante a graduação tive a oportunidade de estudar linguagem de baixo nível (C++), fiz duas disciplinas extracurricular voltada para essa área, banco de dados (Microsoft Access) e MatLab. Durante o TCC fiz um programa para Arduíno para coletar dados (temperatura ambiente e umidade relativa do ar). Mais recente criei uma landing page e um jogo tipo infinit;
- * 👨🏼‍🔧 Atualmente trabalho na empresa de manutenção industrial Hydrauthor;
- * 🏍️ Apaixonado por moto;
- * 🏋🏼‍♂️ Tentando levar uma vida fitness desde 1990.
+ * 📚 Studying postgraduate studies in Software Engineering at AMPLI;
+ * 👨🏼‍🎓 Graduated in Mechanical Engineering from UFJF;
+ * 💻 I'm looking for my first opportunity as a junior developer;
+ * 🤓 A little bit of my history with programming; during graduation I had the opportunity to study low-level language (C++), I took two extracurricular courses focused on this area, database (Microsoft Access) and MatLab. During the TCC I made a program for Arduino to collect data (ambient temperature and relative humidity). More recently, I created a landing page and an infinit-like game;
+ * 👨🏼‍🔧 I currently work at the industrial maintenance company Hydrauthor;
+ * 🏍️ Passionate about motorcycle;
+ * 🏋🏼‍♂️ Trying to be fitness since 1990.
 
   ##
   

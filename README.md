@@ -6,17 +6,19 @@
 
 <!-- ![Banner](https://github.com/CamiloACarvalho/CamiloACarvalho/blob/master/src/assets/header.png) -->
 
- -> 👨🏼‍🔧 Atualmente trabalho na empresa de manutenção industrial Hydrauthor
- 
- -> 👨🏼‍🎓 Graduado em Engenharia Mecânica pela UFJF
- 
- -> 📚 Cursando pós-graduação em Engenharia de Softwares pela AMPLI
- 
- -> 💻 Busco minha primeira oportunidade como desenvolvedor júnior
- 
- -> 🏍️ Apaixonado por motocicleta
+</div>
+
+ * 📚 Cursando pós-graduação em Engenharia de Softwares pela AMPLI; 
+ * 👨🏼‍🎓 Graduado em Engenharia Mecânica pela UFJF; 
+ * 💻 Busco minha primeira oportunidade como desenvolvedor júnior;
+ * 🤓 Um pouco da minha história com programação; durante a graduação tive a oportunidade de estudar linguagem de baixo nível (C++), fiz duas disciplinas extracurricular voltada para essa área, banco de dados (Microsoft Access) e MatLab. Durante o TCC fiz um programa para Arduíno para coletar dados (temperatura ambiente e umidade relativa do ar). Mais recente criei uma landing page e um jogo tipo infinit;
+ * 👨🏼‍🔧 Atualmente trabalho na empresa de manutenção industrial Hydrauthor;
+ * 🏍️ Apaixonado por moto;
+ * 🏋🏼‍♂️ Tentando levar uma vida fitness desde 1990.
 
   ##
+  
+  <div align="center">
   
   <!-- GitHub stats -->
 <b>⚡ Minhas estatísticas no GitHub </b>

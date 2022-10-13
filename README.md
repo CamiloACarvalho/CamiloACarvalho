@@ -2,7 +2,9 @@
 <div align="center">
 
 <!-- SECTION 01: BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Camilo%20Carvalho&animation=scaleIn&fontSize=70&fontAlignY=35&desc=%20Software%20Developer/Engineer&descAlignY=50" />     
+<!-- https://github.com/kyechan99/capsule-render -->
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Camilo%20Carvalho&animation=scaleIn&fontSize=70&fontAlignY=35&desc=%20Jr%20Developer%20|%20Software%20Engineer&descAlignY=50" />     
 
 </div>
 

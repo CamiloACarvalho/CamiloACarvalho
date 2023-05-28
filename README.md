@@ -21,10 +21,17 @@
     🏋🏼‍♂️ Trying to stay fit since 1990.
     <br>
     <br>
-    Check out my portfolio: <a href="https://camiloacarvalho.github.io/" target="_blank">camiloacarvalho.github.io</a>
-  </p>
-</div>
+    
+<div align="center">
+  <!-- SECTION 02: JOGO -->
+  
+  <b> <h3> Meu primeiro jogo 😎 </h3> </b>
+  
+![ezgif com-crop](https://github.com/CamiloACarvalho/CamiloACarvalho.github.io/assets/111397870/edc76bc3-3b9a-44d7-8780-040a7b00bb5e)
 
+Jogue Agora através [deste link](https://camiloacarvalho.github.io/) e divirta-se!
+<hr>
+  
 <div align="center">
   <!-- GitHub stats -->
   <b>⚡ My stats on GitHub ⚡</b>

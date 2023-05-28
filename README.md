@@ -36,6 +36,7 @@ Jogue agora através [deste link](https://camiloacarvalho.github.io/) e divirta-
   <!-- GitHub stats -->
   <b>⚡ My stats on GitHub ⚡</b>
   <br>
+  <br>
   <!-- (https://github-readme-streak-stats.herokuapp.com?user=CamiloACarvalho&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)-->
   <div align="center">
     <a href="https://github.com/CamiloACarvalho">
@@ -52,7 +53,7 @@ Jogue agora através [deste link](https://camiloacarvalho.github.io/) e divirta-
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   </div>
 </div>
-
+  <br>
 <div align="center">
   <a href="mailto:camilo.carvalho@engenharia.ufjf.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camiloaugustocarvalho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

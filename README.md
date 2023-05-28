@@ -14,7 +14,7 @@
     <br>
     🤓 A little bit of my history with programming: during graduation, I had the opportunity to study low-level language (C++), took two extracurricular courses focused on this area, database (Microsoft Access) and MatLab. During the TCC, I developed a program for Arduino to collect data (ambient temperature and relative humidity). More recently, I created a landing page and an infinite-like game;
     <br>
-    👨🏼‍🔧 I currently work at the industrial maintenance company Hydrauthor;
+    👨🏼‍🔧 Currently, I work at a civil construction company specialized in metal structures;
     <br>
     🏍️ Passionate about motorcycles;
     <br>

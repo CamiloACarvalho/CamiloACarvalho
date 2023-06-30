@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    📚 Studying programmingat Trybe;
+    📚 Studying programming at Trybe;
     <br>
     👨🏼‍🎓 Graduated in Mechanical Engineering from UFJF;
     <br>

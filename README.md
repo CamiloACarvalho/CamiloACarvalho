@@ -29,7 +29,7 @@
   
 ![ezgif com-crop](https://github.com/CamiloACarvalho/CamiloACarvalho.github.io/assets/111397870/edc76bc3-3b9a-44d7-8780-040a7b00bb5e)
 
-Play now [deste link](https://camiloacarvalho.github.io/) e divirta-se!
+Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
 <hr>
   
 <div align="center">

@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    📚 Studying postgraduate studies in Software Engineering at AMPLI;
+    📚 Studying programmingat Trybe;
     <br>
     👨🏼‍🎓 Graduated in Mechanical Engineering from UFJF;
     <br>

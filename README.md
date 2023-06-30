@@ -25,11 +25,11 @@
 <div align="center">
   <!-- SECTION 02: JOGO -->
   
-  <b> <h3> Meu primeiro jogo 😎 </h3> </b>
+  <b> <h3> My first game 😎 </h3> </b>
   
 ![ezgif com-crop](https://github.com/CamiloACarvalho/CamiloACarvalho.github.io/assets/111397870/edc76bc3-3b9a-44d7-8780-040a7b00bb5e)
 
-Jogue agora através [deste link](https://camiloacarvalho.github.io/) e divirta-se!
+Play now [deste link](https://camiloacarvalho.github.io/) e divirta-se!
 <hr>
   
 <div align="center">

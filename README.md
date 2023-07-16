@@ -6,19 +6,15 @@
 
 <div align="center">
   <p>
-    📚 Studying programming at Trybe;
-    <br>
-    👨🏼‍🎓 Graduated in Mechanical Engineering from UFJF;
-    <br>
-    💻 I'm looking for my first opportunity as a junior developer;
-    <br>
-    🤓 A little bit of my history with programming: during graduation, I had the opportunity to study low-level language (C++), took two extracurricular courses focused on this area, database (Microsoft Access) and MatLab. During the TCC, I developed a program for Arduino to collect data (ambient temperature and relative humidity). More recently, I created a landing page and an infinite-like game;
-    <br>
-    👨🏼‍🔧 Currently, I work at a civil construction company specialized in metal structures;
-    <br>
-    🏍️ Passionate about motorcycles;
-    <br>
-    🏋🏼‍♂️ Trying to stay fit since 1990.
+Hello, I'm a mechanical engineer graduated from the Federal University of Juiz de Fora, passionate about programming. Currently, I'm studying at Trybe, a programming school, and working as a senior business analyst.
+
+I have previous experience as a production planning and control analyst, where I gained valuable skills in process analysis and optimization. My engineering background has provided me with a solid foundation in problem-solving and logical thinking, which I apply to my programming projects.
+
+I have been dedicating my free time to developing small projects, using various programming languages and technologies such as C++, JavaScript, Python, CSS, and HTML. These experiences allow me to put my knowledge into practice and explore my interest in programming in a creative way.
+
+I'm constantly seeking learning and growth opportunities. Currently, I'm focused on expanding my programming knowledge, honing my skills, and working on challenging projects. My goal is to find opportunities that allow me to apply my technical skills and passion for programming to create innovative solutions.
+
+I'm open to connections and collaborations with other developers and programming enthusiasts. If you're looking for someone with knowledge in engineering and programming, feel free to reach out. Let's work together to achieve amazing results!
     <br>
     <br>
     

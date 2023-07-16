@@ -3,7 +3,6 @@
   <!-- https://github.com/kyechan99/capsule-render -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Camilo%20Carvalho&animation=scaleIn&fontSize=70&fontAlignY=35&desc=%20Jr%20Developer%20"/>     
 </div>
-
 <div align="center">
   <p>
     📚 Studying programming at Trybe;

@@ -34,7 +34,7 @@ Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
   
 <div align="center">
   <!-- GitHub stats -->
-  <b>⚡ My stats on GitHub ⚡</b>
+ <h3> ⚡ My stats on GitHub ⚡</h3>
   <br>
   <br>
   <!-- (https://github-readme-streak-stats.herokuapp.com?user=CamiloACarvalho&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)-->
@@ -60,7 +60,7 @@ Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
   <br>
   
   <hr>
- <h3> 😄 Conect Whit Me 🤝 </h3>
+ <h3> 😄 Connect Whit Me 🤝 </h3>
  
 <div align="center">
   <a href="mailto:camilo.carvalho@engenharia.ufjf.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -71,6 +71,8 @@ Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
 </div>
 
  <hr>
+
+  <h3> 🐍 Snake 🐍 </h3>
  
 <picture>
   <source media="(prefers-color-scheme: dark)"srcset="https://raw.githubusercontent.com/CamiloACarvalho/CamiloACarvalho/output/github-contribution-grid-snake-dark.svg"/>

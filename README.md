@@ -76,3 +76,5 @@ Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
   <img src="https://raw.githubusercontent.com/CamiloACarvalho/CamiloACarvalho/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
+</div>
+

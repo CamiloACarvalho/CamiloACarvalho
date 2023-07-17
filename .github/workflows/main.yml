@@ -1,18 +1,16 @@
 name: generate animation
 
 on:
-  # run automatically every hours
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */24 * * *"
   
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master branch
+  # run on every push on the main or output branch
   push:
     branches:
-    - master
-    
+      - main
+      - output
+
 jobs:
   generate:
     runs-on: ubuntu-latest

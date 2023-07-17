@@ -43,7 +43,7 @@ Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
   
 <hr>
 
- <h3> ⬇️ Top Languages ⬇️</h3>
+ <h3> ⚠️ Top Languages ⚠️</h3>
 
   <div style="display: inline_block"><br>
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -57,7 +57,7 @@ Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
   
   <hr>
   
- <h3> 😄 Connect Whit Me 🤝 </h3>
+ <h3> ✳️ Connect Whit Me ⤵️ </h3>
   <br>
 <div align="center">
   <a href="mailto:camilo.carvalho@engenharia.ufjf.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -70,7 +70,7 @@ Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
  <hr>
 
   <h3> 🐍 Snake 🐍 </h3>
-  <br>
+  
 <picture>
   <source media="(prefers-color-scheme: dark)"srcset="https://raw.githubusercontent.com/CamiloACarvalho/CamiloACarvalho/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"srcset="https://raw.githubusercontent.com/CamiloACarvalho/CamiloACarvalho/output/github-contribution-grid-snake.svg"  />

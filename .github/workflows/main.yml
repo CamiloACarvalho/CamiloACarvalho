@@ -1,40 +1,33 @@
-name: generate animation
+name: Generate Snake Animation
 
 on:
-  # run automatically every 24 hours
+  # Executa automaticamente a cada 24 horas
   schedule:
     - cron: "0 */24 * * *"
   
-  # run on every push on the main or output branch
+  # Permite executar manualmente o trabalho a qualquer momento
+  workflow_dispatch:
+  
+  # Executa em cada push na branch principal (main)
   push:
     branches:
       - main
-      - output
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
       
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          node-version: '16'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Generate github-contribution-grid-snake.svg
-        run: npm run snk -- --github_user_name=CamiloACarvalho
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Generate github-contribution-grid-snake.svg"
-          git push
+          github_user_name: CamiloACarvalho
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

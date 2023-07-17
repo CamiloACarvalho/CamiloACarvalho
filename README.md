@@ -36,8 +36,7 @@ Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
     <a href="https://github.com/CamiloACarvalho">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamiloACarvalho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloACarvalho&layout=compact&langs_count=7&theme=great-gatsby"/>
-      <img height="180em" src="https://streak-stats.demolab.com?user=CamiloACarvalho&theme=great-gatsby&hide_border=false&border_radius=5&date_format=j%2Fn%5B%2FY%5D)"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloACarvalho&repo=github-readme-stats)"/>
+      <img height="180em" src="https://streak-stats.demolab.com?user=CamiloACarvalho&theme=great-gatsby&hide_border=false&border_radius=5&date_format=j%2Fn%5B%2FY%5D"/>
     </a>
   </div>
   

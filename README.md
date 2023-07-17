@@ -32,12 +32,12 @@ Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
   <!-- GitHub stats -->
  <h3> ⚡ My stats on GitHub ⚡</h3>
   <br>
-  <br>
-  <!-- (https://github-readme-streak-stats.herokuapp.com?user=CamiloACarvalho&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)-->
   <div align="center">
     <a href="https://github.com/CamiloACarvalho">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamiloACarvalho&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloACarvalho&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamiloACarvalho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloACarvalho&layout=compact&langs_count=7&theme=great-gatsby"/>
+      <img height="180em" src="https://streak-stats.demolab.com?user=CamiloACarvalho&theme=great-gatsby&hide_border=false&border_radius=5&date_format=j%2Fn%5B%2FY%5D)"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloACarvalho&repo=github-readme-stats)"/>
     </a>
   </div>
   

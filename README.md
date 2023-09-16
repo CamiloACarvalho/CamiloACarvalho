@@ -25,7 +25,7 @@ I'm open to connections and collaborations with other developers and programming
   
 ![ezgif com-crop](https://github.com/CamiloACarvalho/CamiloACarvalho.github.io/assets/111397870/edc76bc3-3b9a-44d7-8780-040a7b00bb5e)
 
-Play now [click here](https://camiloacarvalho.github.io/) and enjoy!
+Play now [click here](camiloacarvalho.github.io/Jump-Mario/) and enjoy!
 <hr>
   
 <div align="center">

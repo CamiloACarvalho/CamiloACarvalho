@@ -17,16 +17,6 @@ I'm constantly seeking learning and growth opportunities. Currently, I'm focused
 I'm open to connections and collaborations with other developers and programming enthusiasts. If you're looking for someone with knowledge in engineering and programming, feel free to reach out. Let's work together to achieve amazing results!
     <br>
     <br>
-    
-<div align="center">
-  <!-- SECTION 02: JOGO -->
-  
-  <b> <h3> My first game 😎 </h3> </b>
-  
-![ezgif com-crop](https://github.com/CamiloACarvalho/CamiloACarvalho.github.io/assets/111397870/edc76bc3-3b9a-44d7-8780-040a7b00bb5e)
-
-Play now [click here](camiloacarvalho.github.io/Jump-Mario/) and enjoy!
-<hr>
   
 <div align="center">
   <!-- GitHub stats -->

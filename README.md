@@ -17,20 +17,6 @@ I'm constantly seeking learning and growth opportunities. Currently, I'm focused
 I'm open to connections and collaborations with other developers and programming enthusiasts. If you're looking for someone with knowledge in engineering and programming, feel free to reach out. Let's work together to achieve amazing results!
     <br>
     <br>
-  
-<div align="center">
-  <!-- GitHub stats -->
- <h3> ⚡ My stats on GitHub ⚡</h3>
-  <br>
-  <div align="center">
-    <a href="https://github.com/CamiloACarvalho">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamiloACarvalho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloACarvalho&layout=compact&langs_count=7&theme=great-gatsby"/>
-      <img height="180em" src="https://streak-stats.demolab.com?user=CamiloACarvalho&theme=great-gatsby&hide_border=false&border_radius=5&date_format=j%2Fn%5B%2FY%5D"/>
-    </a>
-  </div>
-  
-<hr>
 
  <h3> ⚠️ Top Languages ⚠️</h3>
 

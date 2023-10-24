@@ -10,7 +10,6 @@ I'm a mechanical engineer turned passionate developer based in Brazil! 🚀
 
 - 💻 HTML, CSS, JavaScript
 - ⚛️ React
-- 📊 Data Analysis
 - 🌐 Web Development
 
 <div align="center"> 

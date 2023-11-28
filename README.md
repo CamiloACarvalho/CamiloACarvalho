@@ -2,26 +2,32 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Camilo%20Carvalho&animation=scaleIn&fontSize=70&fontAlignY=35&desc=%20Jr%20Developer%20">
 </div>
 
-# 👋 Hello, I'm Camilo Carvalho
-
-I'm a mechanical engineer turned passionate developer based in Brazil! 🚀
-
-## 🛠️ Skills
-
-- 💻 HTML, CSS, JavaScript
-- ⚛️ React
-- 🌐 Web Development
-
-<div align="center"> 
-  
-  ## ⚠️ Top Languages ⚠️
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin: 10px;" height="50" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 10px;" height="50" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 10px;" height="50" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="margin: 10px;" height="50" width="50" />
+<div>
+  <h1>
+    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/91f29a7e-8962-40fa-9712-c2fe1b19a5d6" alt="aceno" width="25">
+    Hello, I'm Camilo Carvalho
+  </h1>
 </div>
+
+<div>
+  I am a mechanical engineer passionate about web development and problem-solving. With a background in Mechanical Engineering from the Federal University of Juiz de Fora, and currently pursuing Web Development at Trybe.</p>
+
+  Development Experience:</p>
+
+  - Mastery of HTML, CSS, JavaScript, TypeScript and React;
+  - Experience in unit testing, version control with Git and GitHub;
+
+  My previous experiences have involved production planning and control, logistics, and maintenance. Currently, I work as a Purchasing Analyst, but my goal is to transition into the development field, where I see the opportunity to apply my passion      for logic and problem-solving. 
+</div>
+
+
+
+## 🛠️ Hard Skills
+
+- ⚠️  <strong>Top Language:</strong>  JavaScript, TypeScript, SQL, Bash
+- 🪄  <strong>Web Design:</strong>  HTML, CSS, Figma, Bootstrap
+- 👨‍💻  <strong>Technical Abilities:</strong>  Algorithm, React, Jest, RTL, Redux, Linux
+- 🌐 <strong>Web Development</strong>
 
 <br>
 

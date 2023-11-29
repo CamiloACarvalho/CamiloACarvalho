@@ -3,7 +3,6 @@
 </div>
 
 <h1>
-  <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/91f29a7e-8962-40fa-9712-c2fe1b19a5d6" alt="aceno" width="25">
   Hello, I'm Camilo Carvalho
 </h1>
 <p>I am a mechanical engineer passionate about web development and problem-solving. With a background in Mechanical Engineering from the Federal University of Juiz de Fora, and currently pursuing Web Development at Trybe.</p>
@@ -12,7 +11,7 @@
 <br>
 
 <h2 align="center"> 
-  <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/f5f19b33-2251-4c2b-ae61-752ee84f0b79" alt="skills" width="18">
+  <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/434d4861-c834-4f76-9361-26649287be49" alt="skills" width="25">
   Hard Skills 
 </h2>
 <ul>
@@ -37,7 +36,7 @@
 
 <div align="center">
   <h2> 
-    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/3b5eb668-5c7c-4f4c-9c2d-d2e9d85285fe" alt="ampulheta" width="18">
+    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/84cce8c3-31e6-42ee-86e5-2d54391888ee" alt="ampulheta" width="25">
     Coding Activity 
   </h2>
 
@@ -49,7 +48,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/e57c85d4-8c76-40be-89af-9400d7e8c025" alt="Rede social" width="18">
+  <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/f6c82720-1c46-4e31-8750-8687589e44ca" alt="Rede social" width="25">
   Connect With Me
 </h2>
 <div align="center">
@@ -59,6 +58,6 @@
 </div>
 <div align="center">
     <a href="mailto:camilo.carvalho@engenharia.ufjf.br">
-        <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/cab1cd58-0650-438d-9e3c-dee47c9d2635" alt="e-mail" width="50" />
+        <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/cab1cd58-0650-438d-9e3c-dee47c9d2635" alt="e-mail" width="55" />
     </a>
 </div>

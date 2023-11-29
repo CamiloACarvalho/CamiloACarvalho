@@ -6,17 +6,9 @@
   <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/91f29a7e-8962-40fa-9712-c2fe1b19a5d6" alt="aceno" width="25">
   Hello, I'm Camilo Carvalho
 </h1>
-
-<div>
-  I am a mechanical engineer passionate about web development and problem-solving. With a background in Mechanical Engineering from the Federal University of Juiz de Fora, and currently pursuing Web Development at Trybe.
-
-  Development Experience:
-
-  - Mastery of HTML, CSS, JavaScript, TypeScript and React;
-  - Experience in unit testing, version control with Git and GitHub;
-
-  My previous experiences have involved production planning and control, logistics, and maintenance. Currently, I work as a Purchasing Analyst, but my goal is to transition into the development field, where I see the opportunity to apply my passion for logic and problem-solving. 
-</div>
+<p>I am a mechanical engineer passionate about web development and problem-solving. With a background in Mechanical Engineering from the Federal University of Juiz de Fora, and currently pursuing Web Development at Trybe.</p>
+<br>
+<p>My previous experiences have involved production planning and control, logistics, and maintenance. Currently, I work as a Purchasing Analyst, but my goal is to transition into the development field, where I see the opportunity to apply my passion for logic and problem-solving.</p>
 <br>
 
 <h2 align="center"> 

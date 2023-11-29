@@ -16,19 +16,19 @@
 </h2>
 <ul>
   <li>
-    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/06a737c3-f08d-4b48-a373-4164aad2f8d9" alt="icon alert" width="22">
+    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/06a737c3-f08d-4b48-a373-4164aad2f8d9" alt="icon alert" width="19">
     <strong>Main Languages:</strong>  JavaScript, TypeScript, SQL, Bash
   </li>
   <li>
-    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/943add4c-cd65-46ca-8750-2aecf421708b" alt="paleta de pinto" width="22">
+    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/943add4c-cd65-46ca-8750-2aecf421708b" alt="paleta de pinto" width="19">
     <strong>Web Design:</strong>  HTML, CSS, Figma, Bootstrap
   </li>
   <li>
-    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/d8b1f88a-2342-4c67-8e1a-40f92d0d9b6b" alt="programing" width="22">
+    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/d8b1f88a-2342-4c67-8e1a-40f92d0d9b6b" alt="programing" width="19">
     <strong>Technical Abilities:</strong>  Algorithm, React, Jest, RTL, Redux, Linux
   </li>
   <li>
-    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/5063ea11-b539-4b2b-98d0-10a44ba98fa1" alt="developer" width="22">
+    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/5063ea11-b539-4b2b-98d0-10a44ba98fa1" alt="developer" width="19">
     <strong>Developer</strong>
   </li>
 </ul>

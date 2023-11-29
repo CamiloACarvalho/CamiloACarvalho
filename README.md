@@ -17,7 +17,7 @@
 <ul>
   <li>
     <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/06a737c3-f08d-4b48-a373-4164aad2f8d9" alt="icon alert" width="19">
-    <strong>Main Languages:</strong>  JavaScript, TypeScript, SQL, Bash
+    <strong>Main Languages:</strong>  JavaScript, TypeScript, SQL, sh
   </li>
   <li>
     <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/943add4c-cd65-46ca-8750-2aecf421708b" alt="paleta de pinto" width="19">

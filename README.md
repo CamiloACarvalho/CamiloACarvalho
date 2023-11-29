@@ -24,12 +24,12 @@
     <strong>Web Design:</strong>  HTML, CSS, Figma, Bootstrap
   </li>
   <li>
-    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/d8b1f88a-2342-4c67-8e1a-40f92d0d9b6b" alt="programing" width="19">
+    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/5063ea11-b539-4b2b-98d0-10a44ba98fa1" alt="desenvolvedor" width="19">
     <strong>Technical Abilities:</strong>  Algorithm, React, Jest, RTL, Redux, Linux
   </li>
   <li>
-    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/5063ea11-b539-4b2b-98d0-10a44ba98fa1" alt="developer" width="19">
-    <strong>Developer</strong>
+    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/0011f5f6-e01f-4167-bf09-c17a34f2d8af" alt="gerente" width="19">
+    <strong>Managerial Skills:</strong>  Scrum, Kanban, Six Sigma, Planning, Negotiation, Leadership, People Management.
   </li>
 </ul>
 <br>

@@ -48,7 +48,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/f6c82720-1c46-4e31-8750-8687589e44ca" alt="Rede social" width="25">
+  <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/dabcbe1c-8fa5-4bbe-9be6-284dd55057d1" alt="Rede social" width="25">
   Connect With Me
 </h2>
 <div align="center">

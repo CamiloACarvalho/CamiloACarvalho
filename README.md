@@ -61,3 +61,7 @@
         <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/cab1cd58-0650-438d-9e3c-dee47c9d2635" alt="e-mail" width="55" />
     </a>
 </div>
+
+<div align="center">
+    <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake eating commit" />
+</div>

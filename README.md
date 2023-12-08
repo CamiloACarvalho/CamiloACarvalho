@@ -65,3 +65,11 @@
 <div align="center">
     <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake eating commit" />
 </div>
+
+<br>
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=CamiloACarvalho&label=Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
+
+</div>

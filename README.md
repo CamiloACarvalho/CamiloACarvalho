@@ -5,9 +5,7 @@
 <h1>
   Hello, I'm Camilo Carvalho
 </h1>
-<p>I am a mechanical engineer passionate about web development and problem-solving. With a background in Mechanical Engineering from the Federal University of Juiz de Fora, and currently pursuing Web Development at Trybe.</p>
-<br>
-<p>My previous experiences have involved production planning and control, logistics, and maintenance. Currently, I work as a Purchasing Analyst, but my goal is to transition into the development field, where I see the opportunity to apply my passion for logic and problem-solving.</p>
+<p>As a Mechanical Engineer who has always been keen on web development and problem-solving, having obtained a Postgraduate degree in Software Engineering, now I strive to improve in full-stack web development at Trybe while striving to learn as much as possible to contribute to interesting projects.</p>
 <br>
 
 <h2 align="center"> 
@@ -15,22 +13,22 @@
   Hard Skills 
 </h2>
 <ul>
-  <li>
+ <li>
     <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/06a737c3-f08d-4b48-a373-4164aad2f8d9" alt="icon alert" width="19">
-    <strong>Main Languages:</strong>  JavaScript, TypeScript, SQL, sh
-  </li>
-  <li>
+    <strong>Main Languages:</strong> JavaScript, TypeScript, SQL, sh
+ </li>
+ <li>
     <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/943add4c-cd65-46ca-8750-2aecf421708b" alt="paleta de pinto" width="19">
-    <strong>Web Design:</strong>  HTML, CSS, Figma, Bootstrap
-  </li>
-  <li>
+    <strong>Web Design:</strong> HTML, CSS, Figma, Bootstrap
+ </li>
+ <li>
     <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/5063ea11-b539-4b2b-98d0-10a44ba98fa1" alt="desenvolvedor" width="19">
-    <strong>Technical Abilities:</strong>  Algorithm, React, Jest, RTL, Redux, Linux
-  </li>
-  <li>
+    <strong>Technical Abilities:</strong> Algorithm, React, Node, Docker, Jest, RTL, Linux
+ </li>
+ <li>
     <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/0011f5f6-e01f-4167-bf09-c17a34f2d8af" alt="gerente" width="19">
-    <strong>Managerial Skills:</strong>  Scrum, Kanban, Six Sigma, Planning, Negotiation, Leadership, People Management.
-  </li>
+    <strong>Managerial Skills:</strong> Scrum, Kanban, Six Sigma, Planning, Negotiation, Leadership, People Management.
+ </li>
 </ul>
 <br>
 

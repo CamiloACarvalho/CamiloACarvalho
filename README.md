@@ -23,7 +23,7 @@
  </li>
  <li>
     <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/5063ea11-b539-4b2b-98d0-10a44ba98fa1" alt="desenvolvedor" width="19">
-    <strong>Technical Abilities:</strong> Algorithm, React, Node, Docker, Jest, RTL, Linux
+    <strong>Technical Abilities:</strong> React, Node, Docker
  </li>
  <li>
     <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/0011f5f6-e01f-4167-bf09-c17a34f2d8af" alt="gerente" width="19">

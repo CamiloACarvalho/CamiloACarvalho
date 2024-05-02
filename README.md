@@ -16,8 +16,8 @@
       </tr>
       <tr>
         <td align="center">
-          <img title="javascript" src="img/vscode-icons--file-type-js-official.svg" width="30" height="30"/>
-          <img title="typescript" src="img/devicon--typescript.svg" width="30" height="30"/>&nbsp;&nbsp;
+          <img title="javascript" src="img/vscode-icons--file-type-js-official.svg" width="30" height="30"/> &nbsp;
+          <img title="typescript" src="img/devicon--typescript.svg" width="30" height="30"/> &nbsp;
         </td>
       </tr>
       <tr align="center">
@@ -25,20 +25,20 @@
       </tr>
       <tr align="center">
         <td>
-          <img title="nodejs" src="img/logos--nodejs.svg" width="30" height="30"/>
-          <img title="nodemon" src="img//logos--nodemon.svg" width="30" height="30"/>
-          <img title="mysql" src="img/logos--mysql.svg" width="30" height="30"/>
-          <img title="docker" src="img/devicon--docker-wordmark.svg" width="30" height="35"/>
-          <img title="vitest" src="img/logos--vitejs.svg" width="30" height="30"/>
-          <img title="react" src="img/devicon--react-wordmark.svg" width="30" height="30"/>
-          <img title="redux" src="img/skill-icons--redux.svg" width="30" height="30"/>
-          <img title="react testing library" src="img/logos--testing-library.svg" width="30" height="30"/>
-          <img title="html" src="img/logos--html-5.svg" width="30" height="30"/>
-          <img title="css" src="img/devicon--css3.svg" width="30" height="30"/>
-          <img title="bootstrap" src="img/devicon--bootstrap-wordmark.svg" width="30" height="30"/>
-          <img title="jest" src="img/logos--jest.svg" width="30" height="30"/>
-          <img title="git" src="img/devicon--git.svg" width="30" height="30"/>
-          <img title="npm" src="img/logos--npm-icon.svg" width="30" height="30"/>
+          <img title="nodejs" src="img/logos--nodejs.svg" width="30" height="30"/> &nbsp;
+          <img title="nodemon" src="img//logos--nodemon.svg" width="30" height="30"/> &nbsp;
+          <img title="mysql" src="img/logos--mysql.svg" width="30" height="30"/> &nbsp;
+          <img title="docker" src="img/devicon--docker-wordmark.svg" width="30" height="35"/> &nbsp;
+          <img title="vitest" src="img/logos--vitejs.svg" width="30" height="30"/> &nbsp;
+          <img title="react" src="img/devicon--react-wordmark.svg" width="30" height="30"/> &nbsp;
+          <img title="redux" src="img/skill-icons--redux.svg" width="30" height="30"/> &nbsp;
+          <img title="react testing library" src="img/logos--testing-library.svg" width="30" height="30"/> &nbsp;
+          <img title="html" src="img/logos--html-5.svg" width="30" height="30"/> &nbsp;
+          <img title="css" src="img/devicon--css3.svg" width="30" height="30"/> &nbsp;
+          <img title="bootstrap" src="img/devicon--bootstrap-wordmark.svg" width="30" height="30"/> &nbsp;
+          <img title="jest" src="img/logos--jest.svg" width="30" height="30"/> &nbsp;
+          <img title="git" src="img/devicon--git.svg" width="30" height="30"/> &nbsp;
+          <img title="npm" src="img/logos--npm-icon.svg" width="30" height="30"/> &nbsp;
         </td>
       </tr>
       <tr align="center">
@@ -46,10 +46,10 @@
       </tr>
       <tr align="center">
         <td>
-          <img title="linux" src="img/logos--linux-tux.svg" width="30" height="30"/>
-          <img title="vscode" src="img/devicon--vscode-wordmark.svg" width="30" height="30"/>
-          <img title="github" src="img/skill-icons--github-light.svg" width="30" height="30"/>
-          <img title="bash" src="img/logos--bash-icon.svg" width="30" height="30"/>
+          <img title="linux" src="img/logos--linux-tux.svg" width="30" height="30"/> &nbsp;
+          <img title="vscode" src="img/devicon--vscode-wordmark.svg" width="30" height="30"/> &nbsp;
+          <img title="github" src="img/skill-icons--github-light.svg" width="30" height="30"/> &nbsp;
+          <img title="bash" src="img/logos--bash-icon.svg" width="30" height="30"/> &nbsp;
         </td>
       </tr>
     </table>

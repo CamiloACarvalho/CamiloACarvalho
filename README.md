@@ -65,9 +65,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=CamiloACarvalho&label=Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
-
-</div>

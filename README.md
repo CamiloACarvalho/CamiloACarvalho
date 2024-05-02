@@ -10,47 +10,46 @@
 
 <div align="center">
   <p align="center">
-    <table>
-      <tr>
-        <th>Languages</th>
+    <table align="center">
+      <tr align="center">
+        <th>Main Languages</th>
       </tr>
       <tr>
         <td align="center">
-          <img title="javascript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/>&nbsp;&nbsp;
-          <img title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30"/>&nbsp;&nbsp;
+          <img title="javascript" src="img/vscode-icons--file-type-js-official.svg" width="30" height="30"/>
+          <img title="typescript" src="img/devicon--typescript.svg" width="30" height="30"/>&nbsp;&nbsp;
         </td>
       </tr>
-      <tr>
+      <tr align="center">
         <th>Frameworks and Technologies</th>
       </tr>
-      <tr>
-        <td align="center">
-          <img title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30" height="30"/>
-          <img title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"/>
-          <img title="docker" src="https://img.icons8.com/color/344/docker.png" width="30" height="35"/>
-          <img title="docker compose" src="https://www.seekpng.com/png/full/525-5256723_docker-compose-logo.png" width="30" height="30"/>
-          <img title="vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="30" height="30"/>
-          <img title="react" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="30" height="30"/>
-          <img title="redux" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/>
-          <img title="react testing library" src="images/testing-library.svg" width="30" height="30"/>
-          <img title="html" src="https://hotmart.s3.amazonaws.com/product_pictures/4e16e7cd-a632-41f0-9c6e-779493bd62e9/HTML5_logo_and_wordmarksvg.png" width="30" height="30"/>
-          <img title="css" src="https://apexensino.com.br/wp-content/uploads/2017/11/css.png" width="30" height="30"/>
-          <img title="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30"/>
-          <img title="jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30"/>
-          <img title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>
-          <img title="npm" src="https://pipedream.com/s.v0/app_XywhLL/logo/orig" width="30" height="30"/>
+      <tr align="center">
+        <td>
+          <img title="nodejs" src="img/logos--nodejs.svg" width="30" height="30"/>
+          <img title="nodemon" src="img//logos--nodemon.svg" width="30" height="30"/>
+          <img title="mysql" src="img/logos--mysql.svg" width="30" height="30"/>
+          <img title="docker" src="img/devicon--docker-wordmark.svg" width="30" height="35"/>
+          <img title="vitest" src="img/logos--vitejs.svg" width="30" height="30"/>
+          <img title="react" src="img/devicon--react-wordmark.svg" width="30" height="30"/>
+          <img title="redux" src="img/skill-icons--redux.svg" width="30" height="30"/>
+          <img title="react testing library" src="img/logos--testing-library.svg" width="30" height="30"/>
+          <img title="html" src="img/logos--html-5.svg" width="30" height="30"/>
+          <img title="css" src="img/devicon--css3.svg" width="30" height="30"/>
+          <img title="bootstrap" src="img/devicon--bootstrap-wordmark.svg" width="30" height="30"/>
+          <img title="jest" src="img/logos--jest.svg" width="30" height="30"/>
+          <img title="git" src="img/devicon--git.svg" width="30" height="30"/>
+          <img title="npm" src="img/logos--npm-icon.svg" width="30" height="30"/>
         </td>
       </tr>
-      <tr>
+      <tr align="center">
         <th>Tools</th>
       </tr>
-      <tr>
-        <td align="center">
-          <img title="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;
-          <img title="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;
-          <img title="github" src="https://github.com/albertoflorence/albertoflorence/blob/main/images/github.svg" width="30" height="30"/>&nbsp;&nbsp;
-          <img title="bash" src="https://img.icons8.com/color/344/bash.png" width="30" height="30"/>&nbsp;&nbsp;
-          <img title="figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp;
+      <tr align="center">
+        <td>
+          <img title="linux" src="img/logos--linux-tux.svg" width="30" height="30"/>
+          <img title="vscode" src="img/devicon--vscode-wordmark.svg" width="30" height="30"/>
+          <img title="github" src="img/skill-icons--github-light.svg" width="30" height="30"/>
+          <img title="bash" src="img/logos--bash-icon.svg" width="30" height="30"/>
         </td>
       </tr>
     </table>

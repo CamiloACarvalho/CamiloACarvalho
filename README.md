@@ -77,17 +77,17 @@
 </h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/camiloaugustocarvalho/">
-        <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/c6b70630-cd39-4eaa-ba82-6264fb6e171f" alt="Linkedin" width="50" />
+        <img title="linkedin" src="img/skill-icons--linkedin.svg"width="40" height="40" space/>
     </a>
-</div>
-<div align="center">
+  &nbsp;
+  &nbsp;
     <a href="mailto:camilo.carvalho@engenharia.ufjf.br">
-        <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/assets/111397870/cab1cd58-0650-438d-9e3c-dee47c9d2635" alt="e-mail" width="55" />
-    </a>
+        <img title="email" src="img/fxemoji--email.svg" width="45" height="45">
+    </a> 
 </div>
 
+<br>
 <div align="center">
     <img src="https://github.com/CamiloACarvalho/CamiloACarvalho/blob/output/github-contribution-grid-snake.svg" alt="snake eating commit" />
 </div>
 
-<br>

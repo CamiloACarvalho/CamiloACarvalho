@@ -49,7 +49,7 @@
           <img title="linux" src="img/logos--linux-tux.svg" width="30" height="30"/> &nbsp;
           <img title="vscode" src="img/devicon--vscode-wordmark.svg" width="30" height="30"/> &nbsp;
           <img title="github" src="img/skill-icons--github-light.svg" width="30" height="30"/> &nbsp;
-          <img title="bash" src="img/logos--bash-icon.svg" width="30" height="30"/> &nbsp;
+          <img title="zsh" src="img/simple-icons--zsh.svg" width="30" height="30"/> &nbsp;
         </td>
       </tr>
     </table>

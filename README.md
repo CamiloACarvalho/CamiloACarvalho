@@ -5,7 +5,7 @@
 <h1>
   Hello, I'm Camilo Carvalho
 </h1>
-<p>As a Mechanical Engineer who has always been keen on web development and problem-solving, having obtained a Postgraduate degree in Software Engineering, now I strive to improve in full-stack web development at Trybe while striving to learn as much as possible to contribute to interesting projects.</p>
+<p>Postgraduate in software engineering with FullStack training from Trybe. Currently a junior developer at NoFake Brands, focused on innovative solutions.</p>
 <br>
 
 <div align="center">
